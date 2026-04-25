@@ -6,7 +6,9 @@
 
 - 메인: https://hasegi-project-privacy.github.io/thinkmath-policies/
 - 이용약관 (한국어): https://hasegi-project-privacy.github.io/thinkmath-policies/terms-of-service-ko.html
+- 이용약관 (English): https://hasegi-project-privacy.github.io/thinkmath-policies/terms-of-service-en.html
 - 개인정보 처리방침 (한국어): https://hasegi-project-privacy.github.io/thinkmath-policies/privacy-policy-ko.html
+- 개인정보 처리방침 (English): https://hasegi-project-privacy.github.io/thinkmath-policies/privacy-policy-en.html
 
 ## 핵심 원칙
 

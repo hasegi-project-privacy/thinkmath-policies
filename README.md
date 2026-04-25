@@ -1,6 +1,6 @@
 # thinkmath-policies
 
-생각수학(Saenggak Math) 앱의 이용약관 및 개인정보 처리방침 호스팅 리포지토리.
+생각수학(Think Math) 앱의 이용약관 및 개인정보 처리방침 호스팅 리포지토리.
 
 ## URLs (GitHub Pages)
 
